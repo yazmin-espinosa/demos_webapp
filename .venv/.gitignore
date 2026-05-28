@@ -1,0 +1,5 @@
+````shell
+*.pyc
+_pycache_/
+.venvl
+````
